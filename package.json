@@ -1,0 +1,14 @@
+{
+  "name": "mock-exam-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Powered Mock Exam",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "pdf-parse": "^2.4.5"
+  }
+}
